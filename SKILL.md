@@ -76,6 +76,27 @@ printable [--title "..."] [--format auto|md|txt|json|pdf] INPUT -o OUTPUT.pdf
   Courier 9 pt for monospace / preformatted / code. Long content
   paginates automatically (ReportLab platypus).
 
+## One-page infographic and poster rule
+
+An A4 one-page infographic is a poster, not a notebook page. Design it for
+reading at **1–2 metres**, not for a person holding it 30 cm from their face.
+The best use of the page is therefore readable hierarchy and visual
+compression, not maximum text density.
+
+- Establish one dominant message and a small number of secondary zones.
+- Use short labels, phrases, diagrams, arrows, and comparisons; do not pour a
+  transcript or paragraph-heavy notes onto one page.
+- Set type for the viewing distance first. If the content does not fit at a
+  distance-readable size, cut or restructure the content; never solve the
+  problem by shrinking the type until it becomes notebook-sized.
+- Keep the page visually full with meaningful structure, not with tiny copy:
+  large nodes, clear grouping, generous separation, and an obvious reading
+  path are productive uses of space.
+- Acceptance test: print or render the final A4 page at 100% and read it from
+  1–2 metres in normal light without zooming, leaning in, or handling the
+  sheet. A failed distance-read is a content/layout failure, not a reason to
+  reduce the type size.
+
 ### Examples
 
 ```bash
